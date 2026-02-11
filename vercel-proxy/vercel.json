@@ -2,7 +2,11 @@
     "rewrites": [
         {
             "source": "/(.*)",
+<<<<<<< HEAD
             "destination": "https://intervention-equipped-tackle-academy.trycloudflare.com/$1"
+=======
+            "destination": "https://intervention-equipped-tackle-academy.trycloudflare.com/"
+>>>>>>> 063cabaf40a79f7743788bb0377e41aaf6202627
         }
     ]
 }
