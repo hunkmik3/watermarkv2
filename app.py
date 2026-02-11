@@ -15,8 +15,8 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 # Watermark settings
 WATERMARK_TEXT = "OTSU"
 FONT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "geist-font/geist-font/Geist/ttf/Geist-SemiBold.ttf")
-IMAGE_FONT_SIZE = 1280
-VIDEO_FONT_SIZE = 640
+IMAGE_FONT_SIZE = 832
+VIDEO_FONT_SIZE = 416
 LETTER_SPACING = -0.04
 OPACITY = 25
 
